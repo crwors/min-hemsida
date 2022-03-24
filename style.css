@@ -1,0 +1,38 @@
+h1 {
+    color:blue;
+    font-size: 80px;
+    background-color: aqua;
+}
+.CR7{
+    background-color: rgb(238, 69, 69);
+    text-align: center;
+    
+}
+.CR7 p{
+    width: 50%;
+    margin: auto;
+    color: black;
+    font-size: medium;
+    font-style: inherit;
+}
+.Messi{
+    background-color: rgb(62, 62, 252);
+    text-align: center;
+}
+
+.Messi p {
+    width: 50%;
+    margin: auto;
+   color: black;
+   font-size: medium;
+   font-style:unset;
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center ;
+}
+.Hover:hover {
+    height: 505px;
+}
